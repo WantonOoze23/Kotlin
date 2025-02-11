@@ -1,5 +1,5 @@
 package Task_1
 
-fun main(args: Array<String>) {
+fun main() {
     println(123)
 }
