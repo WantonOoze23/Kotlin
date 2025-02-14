@@ -18,7 +18,7 @@ fun main(){
     var doule: Double = 1.123
     var float: Float = 3.14F
     var char: Char = 'A'
-    var bool: Boolean = true
+    val bool: Boolean = true
     var str: String = "Hello people"
     println(bool)
     //numbers that have ranges
